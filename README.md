@@ -41,7 +41,7 @@ Esse projeto é parte do trabalho final do Bootcamp em Data Analytics da Ironhac
 * Sklearn
 
 ## O que é esse projeto?
-* Buscamos aqui apresentar nosso MVP (Minimal Viable Product) de análise semântica automatizada de grande conjunto de documentos. Aqui analisamos por volta de 200 mil notícias institucionais das secretarias da Prefeitura do Município de São Paulo, entre 2003 e 2020. Demos especial atenção para comparar as duas últimas gestões (Haddad e Dória-Covas). Nossa ferramenta poderia ser aplicada a outros objetos. Por exemplo, poderíamos extrair todas as notícias e conteúdos textuais dos principais sites de empresas de determinado setor para fazer análise de discurso e de suas identidades, para entender como apresentam sua imagem no mercado. Poderíamos comparar as empresas entre si etc. Na verdade, há inúmeras possibilidades e utilidades.
+Buscamos aqui apresentar nosso MVP (Minimal Viable Product) de análise semântica automatizada de grande conjunto de documentos. Aqui analisamos por volta de 200 mil notícias institucionais das secretarias da Prefeitura do Município de São Paulo, entre 2003 e 2020. Demos especial atenção para comparar as duas últimas gestões (Haddad e Dória-Covas). Nossa ferramenta poderia ser aplicada a outros objetos. Por exemplo, poderíamos extrair todas as notícias e conteúdos textuais dos principais sites de empresas de determinado setor para fazer análise de discurso e de suas identidades, para entender como apresentam sua imagem no mercado. Poderíamos comparar as empresas entre si etc. Na verdade, há inúmeras possibilidades e utilidades.
 
 ## O que é Topic Model?
 * não-supervisionado;
