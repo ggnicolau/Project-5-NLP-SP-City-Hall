@@ -73,11 +73,18 @@ Todos os códigos podem ser encontrados na pasta ```py files``` ordenados
 
 ## Visualizações
 * WordClouds
-** ![ex]()
+** ![ex](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/assistencia_social_doria_covas21.png)
 
 * pyLDAvis;
-* Cruzamento de assuntos criados por nós com tópicos no corpus por gestão;
 ** ![ex](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/seguranca_urbana.html)
+
+* Cruzamento de assuntos criados por nós com tópicos no corpus por gestão;
+** Cruzamos o tópico de segurança com o tópico de saúde para ver qual o principal documento do Corpus o algoritmo nos retornava:
+** ```GCM encaminha homem que tentou suicídio a atendimento social    5/01/2010  Texto: Gláucia Arboleya A Guarda Civil Metropolitana encaminhou, na última quarta-feira (13/1) por volta das 14h30, um homem que tentou se suicidar no Viaduto do Chá para o Atendimento Médico Ambulatorial (AMA), na Sé. O homem é natural da cidade de Paulo Afonso, Bahia, e estava em situação de risco há 30 dias. A Inspetoria do Gabinete do Prefeito visualizou a vítima do lado externo da grade do viaduto e foi até o local. Após conversa com o homem, ele aceitou a sair da posição de risco do viaduto e acompanhar os guardas civis metropolitanos para a AMA. Ele estava acompanhado por um rapaz de 18 anos, também em situação vulnerável há 30 dias, natural de Val Paraíso – interior de São Paulo. Ambos foram encaminhados para atendimento médico e, posteriormente, ao atendimento social para acolhimento em albergue da região até que seja viabilizado o retorno para as suas cidades de origem. No ano passado a GCM também atendeu um homem que tentou se suicidar da passarela do DETRAN, no Ibirapuera. O encaminhamento de pessoa em situação de risco é um dos programas prioritários da GCM.```
+
+* Retorno de documentos mais importantes por tópico no corpus e de cruzamento entre tópicos;
+** Criamos um grupo de palavras sobre determinado assunto e cruzamos com os tópicos no Corpus para entender como era a distribuição dos assuntos entre cada gestão:
+** ![ex1:Haddad]()
 
 ## Agradecimentos
 
