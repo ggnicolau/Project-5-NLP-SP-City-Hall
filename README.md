@@ -84,17 +84,34 @@ Todos os códigos podem ser encontrados na pasta ```py files``` ordenados
 
 * Retorno de documentos mais importantes por tópico no corpus e de cruzamento entre tópicos;
 ** Criamos um grupo de palavras sobre determinado assunto e cruzamos com os tópicos no Corpus para entender como era a distribuição dos assuntos entre cada gestão:
-** ![ex1:Haddad]()
+** ![ex1:Haddad](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/Captura%20de%20Tela%20(192).png)
+** ![ex1:Haddad](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/haddad.png)
+** ![ex2:Dória](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/Captura%20de%20Tela%20(194).png)
+** ![ex2:Dória](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/D%C3%B3ria.png)
+
+## Algumas conclusões
+Analisando algumas secretarias e comparando as gestões percebemos que em seus discursos (mais gráficos podem ser encontrados na pasta Presentation desse projeto):
+
+1) Na assistência social, Dória-Covas parecem dar mais atenção ao trabalho e mercado, como capacitação das pessoas em situação de vulnerabilidade. Haddad busca dar mais atenção aos direitos humanos e às minorias (mulheres, indígenas etc);
+2) Na segurança pública, Dória-Covas parecem dar mais atenção à Zeladoria e limpeza da cidade, dentro do programa Cidade Linda. Já Haddad parece dar mais atenção aos direitos humanos, como o desarmamento, mediação de conflitos, violência sexual e meio ambiente. Ambos também tem agenda repressora às drogas e aos ambulantes.
+3) A saúde parece não ter variação entre as gestões, tendo continuidade e se apresentando mais como um programa de Estado que um programa de Governo. Sempre se fala de prevenção, saúde da mulher, maternidade, cuidado com o idoso, dengue, vacinação, hiv e Carnaval. Na gestão Dória também encontramos um tópico sobre o Corujão para acabar com as filas nas UBSs.
+
+## Futuro
+Recomendamos aos clientes incorporarem as seguintes ferramentas além das disponíveis no nosso MVP:
+FUTURO
+- Automatizar (mais) nossas pipelines, transformando as funções em classes;
+- Incorporar e automatizar os hiperparâmetros;
+- Automatizar o reto de documentos mais importantes por tópico;
+- Comparação entre tópicos no corpus, através de Structured Topic Model (biblioteca de R) em um heatmap;
+- NER;
+- Sentiment Analysis;
 
 ## Agradecimentos
 
- - Import from dataset
- - Data cleaning
- - Data manipulation
- - Data analysis
- - Creation of the linear regression model
- - Application of the model
- - Analysis of the result
+* Especialmente à Rai e Adriano, que são pessoas incríveis, muito inteligentes e muito pacientes;
+* Aos meus colegas: Eduardo, Aline, Matheus, Márcio e Luís;
+* E a todos da Ironhack que tornaram possível esse Bootcamp que é uma experiência única de vida!
+* E a todos que já passaram ou que ainda passarão pela Ironhack, que é uma comunidade!
 
 ## Links
 
