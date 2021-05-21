@@ -76,7 +76,7 @@ Todos os códigos podem ser encontrados na pasta ```py files``` ordenados
 ![ex](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/assistencia_social_doria_covas21.png)
 
 * pyLDAvis;
-![ex](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/seguranca_urbana.html)
+  * Faça download do arquivo seguranca_urbana.html e abra em seu navegador para ver um exemplo do gráfico dinâmico pyLDAvis no seguinte endereço <https://github.com/ggnicolau/Ironhack_final/tree/main/Presentation>
 
 * Cruzamento de assuntos criados por nós com tópicos no corpus por gestão;
   * Cruzamos o tópico de segurança com o tópico de saúde para ver qual o principal documento do Corpus o algoritmo nos retornava:
