@@ -6,11 +6,9 @@
 # Modelo de Tópicos e a Prefeitura de SP (NLP)
 Esse projeto é parte do trabalho final do Bootcamp em Data Analytics da Ironhack, turma de 2021. Também é extensão de trabalhos desenvolvidos durante o mestrado e doutorado em ciência política pela Universidade de São Paulo
 
-i
-This project aimed to create a linear regression model in a set of data on diamond histories and, through the model, to assign diamond prices in the second set of data.
-
 ## Tecnologias
 * Python version  3.9
+* PHP
 * pgAdmin
 * Prezi
 
