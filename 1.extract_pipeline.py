@@ -104,9 +104,9 @@ search_values = ['2017','2018','2019']
 df_doria_covas = df[df.date.str.contains('|'.join(search_values ))]
 # For debugging, print what we found
 print(df_haddad)
-#df.to_csv(f'C:/Users/user/2. GIT_PROJECTS/Desafios/Projeto 5 - NLP Secretarias/OUTPUT BOX/big_table.csv', sep=r'Γ', index=False)
+df.to_csv(f'C:/Users/user/2. GIT_PROJECTS/Desafios/Projeto 5 - NLP Secretarias/OUTPUT BOX/big_table.csv', sep=r'Γ', index=False)
 df_haddad.to_csv(f'C:/Users/user/2. GIT_PROJECTS/Desafios/Projeto 5 - NLP Secretarias/OUTPUT BOX/direitos_humanos-poprua_haddad.csv', sep=r'Γ', index=False)
-#df_doria_covas.to_csv(f'C:/Users/user/2. GIT_PROJECTS/Desafios/Projeto 5 - NLP Secretarias/OUTPUT BOX/big_table_doria_covas.csv', sep=r'Γ', index=False)
+df_doria_covas.to_csv(f'C:/Users/user/2. GIT_PROJECTS/Desafios/Projeto 5 - NLP Secretarias/OUTPUT BOX/big_table_doria_covas.csv', sep=r'Γ', index=False)
 allDone()
 
 
