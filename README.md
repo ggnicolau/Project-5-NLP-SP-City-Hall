@@ -125,6 +125,7 @@ FUTURO
   - Códigos em Python do modelo de tópicos e do workflow: (https://github.com/ggnicolau/Ironhack_final/tree/main/py%20files)
   - Códigos em PHP de webs scraping das notícias institucionais: (https://github.com/ggnicolau/Ironhack_final/tree/main/PHP%20webscraping)
   - Exemplos visuais do nosso produto: (https://github.com/ggnicolau/Ironhack_final/tree/main/Presentation)
+  - Ver apresentação completa, com mais gráficos e análise, baixando o arquivo executável (.exe) do Prezi em: (https://github.com/ggnicolau/Ironhack_final/tree/main/Presentation)
 
 ## Versioning
 
