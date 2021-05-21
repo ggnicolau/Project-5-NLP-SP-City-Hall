@@ -46,9 +46,9 @@ Esse projeto é parte do trabalho final do Bootcamp em Data Analytics da Ironhac
 ## O que é Topic Model?
 * não-supervisionado;
 * não-estruturado;
-* LDA retorna tópicos que é;
+* LDA retorna tópicos. O que é isso?
   * A principal característica dos modelos de tópicos é sua capacidade de realizar uma redução dimensional do espaço definido pelo modelo bag-of-words de forma a capturar estruturas semânticas presentes no espaço. Além disso temos que o novo espaço, dito espaço de tópicos, é um modelo probabilístico para a ocorrência de palavras nos documentos; ou seja, busca-se a covariância entre as palavras em um documento e a relação entre os documentos (Corpus). Vamos além da contagem de palavras.
-  * Temos menos bias do que o 'tageamento' de um sujeito e, portanto, melhor classificação que um humano; é ótimo, por exemplo, para informational retriveal, ou seja, encontrar um conteúdo textual específico em um grande conjunto de dados;
+  * Temos menos bias do que o 'tageamento' de um sujeito e, portanto, melhor classificação que um humano; é ótimo, por exemplo, para informational retrieveal, ou seja, encontrar um conteúdo textual específico em um grande conjunto de dados;
 * Um topico se apresenta assim:
   * TÓPICOS DE CULTURA
   > (17, '0.228*"anos" + 0.120*"show" + 0.097*"projeto" + 0.080*"apresentacoes" + 0.076*"musicas" + 0.074*"banda" + 0.025*"acervo" + 0.022*"largo" + 0.018*"pontos" + 0.018*"novo"')
@@ -56,14 +56,14 @@ Esse projeto é parte do trabalho final do Bootcamp em Data Analytics da Ironhac
   > (10, '0.181*"ate" + 0.126*"danca" + 0.092*"inscricoes" + 0.069*"artistas" + 0.068*"musical" + 0.066*"programa" + 0.052*"janeiro" + 0.049*"recebe" + 0.035*"atividades" + 0.023*"grupos"')
 
 * Quais as vantagens de ser sem estrutura e sem supervisão?
-  * Não precisamos de target e não tem interferência do sujeito na interpretação do sujeito
+  * Não precisamos de target e não tem interferência do sujeito na interpretação do objeto, ou seja, dos sentidos (semântica) no nosso Corpus.
 
 ## Worfklow
 Todos os códigos podem ser encontrados na pasta ```py files``` ordenados
 * Primeiro extraímos o conteúdo dos sites das secretarias através de PHP;
 * Automatizado através de uma função, incorporamos tudo em um pandas DataFrame, cada linha com duas colunas: data e texto;
 * Sincronizamos com um banco de dados postgreSQL;
-* Automatizado através de uma função, limpamos o texto da tabela (tiramos url, maiusculas, acentos, numeros, datas, letras unicas, simbolos, stopwords etc);
+* Automatizado através de uma função, limpamos o texto da tabela (tiramos url, maiusculas, acentos, números, datas, letras únicas, simbolos, stopwords etc);
 * Fizemos lematização sem definir função para ter controle de erros (processo lento de deep learning - nem tudo apresentado aqui incorporou a lematização);
 * Criamos uma função para automatizar o modelo LDA para cada recorte de análise;
 * Não incorporamos hiperparâmetros: nossa intenção é mostrar para o cliente como o algoritmo funciona com os mesmos parâmetros em diferentes conjuntos de dados;
@@ -82,8 +82,10 @@ Todos os códigos podem ser encontrados na pasta ```py files``` ordenados
 
 * Retorno de documentos mais importantes por tópico no corpus e de cruzamento entre tópicos;
   * Criamos um grupo de palavras sobre determinado assunto e cruzamos com os tópicos no Corpus para entender como era a distribuição dos assuntos entre cada gestão:
+  Haddad:
 ![ex1:Haddad](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/Captura%20de%20Tela%20(192).png)
 ![ex1:Haddad](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/haddad.png)
+  Dória:
 ![ex2:Dória](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/Captura%20de%20Tela%20(194).png)
 ![ex2:Dória](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/D%C3%B3ria.png)
 
@@ -114,6 +116,9 @@ FUTURO
 ## Links
 
   - Repositório: https://github.com/ggnicolau/Ironhack_final
+  - Códigos em Python do modelo de tópicos e do workflow: (https://github.com/ggnicolau/Ironhack_final/tree/main/py%20files)
+  - Códigos em PHP de webs scraping das notícias institucionais: ()
+  - Exemplos visuais do nosso produto: (https://github.com/ggnicolau/Ironhack_final/tree/main/Presentation)
 
 ## Versioning
 
