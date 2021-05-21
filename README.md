@@ -49,16 +49,16 @@ This project aimed to create a linear regression model in a set of data on diamo
 * não-supervisionado;
 * não-estruturado;
 * LDA retorna tópicos que é;
--- A principal característica dos modelos de tópicos é sua capacidade de realizar uma redução dimensional do espaço definido pelo modelo bag-of-words de forma a capturar estruturas semânticas presentes no espaço. Além disso temos que o novo espaço, dito espaço de tópicos, é um modelo probabilístico para a ocorrência de palavras nos documentos; ou seja, busca-se a covariância entre as palavras em um documento e a relação entre os documentos (Corpus). Vamos além da contagem de palavras.
--- Temos menos bias do que o 'tageamento' de um sujeito e, portanto, melhor classificação que um humano; é ótimo, por exemplo, para informational retriveal, ou seja, encontrar um conteúdo textual específico em um grande conjunto de dados;
+  * A principal característica dos modelos de tópicos é sua capacidade de realizar uma redução dimensional do espaço definido pelo modelo bag-of-words de forma a capturar estruturas semânticas presentes no espaço. Além disso temos que o novo espaço, dito espaço de tópicos, é um modelo probabilístico para a ocorrência de palavras nos documentos; ou seja, busca-se a covariância entre as palavras em um documento e a relação entre os documentos (Corpus). Vamos além da contagem de palavras.
+  * Temos menos bias do que o 'tageamento' de um sujeito e, portanto, melhor classificação que um humano; é ótimo, por exemplo, para informational retriveal, ou seja, encontrar um conteúdo textual específico em um grande conjunto de dados;
 * Um topico se apresenta assim:
--- TÓPICOS DE CULTURA
-> (17, '0.228*"anos" + 0.120*"show" + 0.097*"projeto" + 0.080*"apresentacoes" + 0.076*"musicas" + 0.074*"banda" + 0.025*"acervo" + 0.022*"largo" + 0.018*"pontos" + 0.018*"novo"')
-> (4, '0.164*"sobre" + 0.112*""o" + 0.092*"biblioteca" + 0.075*"diretor" + 0.062*"exposicao" + 0.054*"obras" + 0.051*"reune" + 0.042*"andrade" + 0.042*"mario" + 0.037*"primeiro"')
-> (10, '0.181*"ate" + 0.126*"danca" + 0.092*"inscricoes" + 0.069*"artistas" + 0.068*"musical" + 0.066*"programa" + 0.052*"janeiro" + 0.049*"recebe" + 0.035*"atividades" + 0.023*"grupos"')
+  * TÓPICOS DE CULTURA
+  > (17, '0.228*"anos" + 0.120*"show" + 0.097*"projeto" + 0.080*"apresentacoes" + 0.076*"musicas" + 0.074*"banda" + 0.025*"acervo" + 0.022*"largo" + 0.018*"pontos" + 0.018*"novo"')
+  > (4, '0.164*"sobre" + 0.112*""o" + 0.092*"biblioteca" + 0.075*"diretor" + 0.062*"exposicao" + 0.054*"obras" + 0.051*"reune" + 0.042*"andrade" + 0.042*"mario" + 0.037*"primeiro"')
+  > (10, '0.181*"ate" + 0.126*"danca" + 0.092*"inscricoes" + 0.069*"artistas" + 0.068*"musical" + 0.066*"programa" + 0.052*"janeiro" + 0.049*"recebe" + 0.035*"atividades" + 0.023*"grupos"')
 
 * Quais as vantagens de ser sem estrutura e sem supervisão?
-** Não precisamos de target e não tem interferência do sujeito na interpretação do sujeito
+  * Não precisamos de target e não tem interferência do sujeito na interpretação do sujeito
 
 ## Worfklow
 Todos os códigos podem ser encontrados na pasta ```py files``` ordenados
@@ -79,11 +79,11 @@ Todos os códigos podem ser encontrados na pasta ```py files``` ordenados
 ![ex](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/seguranca_urbana.html)
 
 * Cruzamento de assuntos criados por nós com tópicos no corpus por gestão;
--- Cruzamos o tópico de segurança com o tópico de saúde para ver qual o principal documento do Corpus o algoritmo nos retornava:
-> 'GCM encaminha homem que tentou suicídio a atendimento social    5/01/2010  Texto: Gláucia Arboleya A Guarda Civil Metropolitana encaminhou, na última quarta-feira (13/1) por volta das 14h30, um homem que tentou se suicidar no Viaduto do Chá para o Atendimento Médico Ambulatorial (AMA), na Sé. O homem é natural da cidade de Paulo Afonso, Bahia, e estava em situação de risco há 30 dias. A Inspetoria do Gabinete do Prefeito visualizou a vítima do lado externo da grade do viaduto e foi até o local. Após conversa com o homem, ele aceitou a sair da posição de risco do viaduto e acompanhar os guardas civis metropolitanos para a AMA. Ele estava acompanhado por um rapaz de 18 anos, também em situação vulnerável há 30 dias, natural de Val Paraíso – interior de São Paulo. Ambos foram encaminhados para atendimento médico e, posteriormente, ao atendimento social para acolhimento em albergue da região até que seja viabilizado o retorno para as suas cidades de origem. No ano passado a GCM também atendeu um homem que tentou se suicidar da passarela do DETRAN, no Ibirapuera. O encaminhamento de pessoa em situação de risco é um dos programas prioritários da GCM.'
+  * Cruzamos o tópico de segurança com o tópico de saúde para ver qual o principal documento do Corpus o algoritmo nos retornava:
+  > 'GCM encaminha homem que tentou suicídio a atendimento social    5/01/2010  Texto: Gláucia Arboleya A Guarda Civil Metropolitana encaminhou, na última quarta-feira (13/1) por volta das 14h30, um homem que tentou se suicidar no Viaduto do Chá para o Atendimento Médico Ambulatorial (AMA), na Sé. O homem é natural da cidade de Paulo Afonso, Bahia, e estava em situação de risco há 30 dias. A Inspetoria do Gabinete do Prefeito visualizou a vítima do lado externo da grade do viaduto e foi até o local. Após conversa com o homem, ele aceitou a sair da posição de risco do viaduto e acompanhar os guardas civis metropolitanos para a AMA. Ele estava acompanhado por um rapaz de 18 anos, também em situação vulnerável há 30 dias, natural de Val Paraíso – interior de São Paulo. Ambos foram encaminhados para atendimento médico e, posteriormente, ao atendimento social para acolhimento em albergue da região até que seja viabilizado o retorno para as suas cidades de origem. No ano passado a GCM também atendeu um homem que tentou se suicidar da passarela do DETRAN, no Ibirapuera. O encaminhamento de pessoa em situação de risco é um dos programas prioritários da GCM.'
 
 * Retorno de documentos mais importantes por tópico no corpus e de cruzamento entre tópicos;
-** Criamos um grupo de palavras sobre determinado assunto e cruzamos com os tópicos no Corpus para entender como era a distribuição dos assuntos entre cada gestão:
+  * Criamos um grupo de palavras sobre determinado assunto e cruzamos com os tópicos no Corpus para entender como era a distribuição dos assuntos entre cada gestão:
 ![ex1:Haddad](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/Captura%20de%20Tela%20(192).png)
 ![ex1:Haddad](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/haddad.png)
 ![ex2:Dória](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/Captura%20de%20Tela%20(194).png)
