@@ -45,8 +45,14 @@ Esse projeto é parte do trabalho final do Bootcamp em Data Analytics da Ironhac
 ## Tecnologias
 * Python version  3.9
 * PHP
-* pgAdmin
+* postgreSQL
 * Prezi
+
+## Ferramentas
+* Atom
+* pgAdmin
+* Jupyter IPython
+* Git
 
 ## Serviços usados
 * Github
