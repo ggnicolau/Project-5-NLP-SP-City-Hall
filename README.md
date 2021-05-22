@@ -207,6 +207,8 @@ FUTURO
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggnicolau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![https://medium.com/@ggnicolau](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
+
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="business" value="JMWQY8E36XMXL" />
 <input type="hidden" name="item_name" value="tech" />
