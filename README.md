@@ -107,11 +107,21 @@ Todos os códigos podem ser encontrados na pasta ```py files``` ordenados
 
 ## Visualizações
 * WordClouds:
+
+<div align="center">
+
 ![ex](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/assistencia_social_doria_covas21.png)
+
+</div>
 
 * pyLDAvis:
   * Faça download do arquivo seguranca_urbana.html e abra em seu navegador para ver um exemplo do gráfico dinâmico pyLDAvis no seguinte endereço não foi possível incorporar o gráfico dinâmico em HTML no GitHub): <https://github.com/ggnicolau/Ironhack_final/tree/main/Presentation>
+
+  <div align="center">
+
   ![ex](https://github.com/ggnicolau/Ironhack_final/blob/main/All%20Visualizations/pyLDAvis_example.png)
+
+  </div>
 
 * Cruzamento de assuntos criados por nós com tópicos no corpus por gestão;
   * Cruzamos o tópico de segurança com o tópico de saúde para ver qual o principal documento do Corpus o algoritmo nos retornava:
@@ -122,15 +132,23 @@ Todos os códigos podem ser encontrados na pasta ```py files``` ordenados
 
 Haddad:
 
+<div align="center">
+
 ![ex1:Haddad](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/Captura%20de%20Tela%20(192).png)
 
 ![ex1:Haddad](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/haddad.png)
 
+</div>
+
 Dória:
+
+<div align="center">
 
 ![ex2:Dória](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/Captura%20de%20Tela%20(194).png)
 
 ![ex2:Dória](https://github.com/ggnicolau/Ironhack_final/blob/main/Presentation/Images/D%C3%B3ria.png)
+
+</div>
 
 ## Algumas conclusões
 Analisando algumas secretarias e comparando as gestões percebemos que em seus discursos (mais gráficos podem ser encontrados na pasta Presentation desse projeto):
