@@ -34,7 +34,7 @@
 ---
 
 # Modelo de Tópicos e a Prefeitura de SP (NLP)
-Esse projeto é parte do trabalho final do Bootcamp em Data Analytics da Ironhack, turma de 2021. Também é extensão de trabalhos desenvolvidos durante o mestrado e doutorado em ciência política pela Universidade de São Paulo
+Esse projeto é parte do trabalho final do Bootcamp em Data Analytics da Ironhack, turma de 2021. Também é extensão de trabalhos desenvolvidos durante o mestrado e doutorado em ciência política pela Universidade de São Paulo.
 
 ## Tecnologias
 * Python version  3.9
