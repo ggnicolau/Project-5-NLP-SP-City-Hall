@@ -1,12 +1,15 @@
 <div align="center">
 <img src="https://coursereport-production.imgix.net/uploads/school/logo/84/original/logo-ironhack-blue.png?w=200&h=200&dpr=1&q=75">
+</div>
 
 <div align="left">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Seja+bem-vindo!)](https://git.io/typing-svg) <br />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Seja+bem-vindo!)](https://git.io/typing-svg)
+</div>
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 ---
+
 <div align="center">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ggnicolau.visitor-badge)
@@ -28,7 +31,7 @@
 ![Windows 10 Pro](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggnicolau&show_icons=true&theme=darcula)
-
+</div>
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 ---
@@ -171,6 +174,9 @@ FUTURO
 ## Autor
 
 * **Guilherme Giuliano Nicolau**: @ggnicolau (https://github.com/ggnicolau)
+
+</div>
+
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 ---
