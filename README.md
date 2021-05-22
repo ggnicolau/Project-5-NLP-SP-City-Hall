@@ -208,6 +208,9 @@ FUTURO
 
 ![https://medium.com/@ggnicolau](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](JMWQY8E36XMXL)
+
 <br/><br/>
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="business" value="JMWQY8E36XMXL" />
