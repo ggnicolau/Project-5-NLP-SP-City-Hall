@@ -1,13 +1,13 @@
 <div align="center">
 <img src="https://coursereport-production.imgix.net/uploads/school/logo/84/original/logo-ironhack-blue.png?w=200&h=200&dpr=1&q=75">
+
 <div align="left">
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Seja+bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Seja+bem-vindo!)](https://git.io/typing-svg) <br />
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 ---
-
+<div align="center">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ggnicolau.visitor-badge)
 [![Created Badge](https://badges.pufler.dev/created/ggnicolau/Ironhack_final)](https://badges.pufler.dev)
@@ -32,6 +32,9 @@
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 ---
+
+<div align="left">
+<div class=''text-justify''>
 
 # Modelo de Tópicos e a Prefeitura de SP (NLP)
 Esse projeto é parte do trabalho final do Bootcamp em Data Analytics da Ironhack, turma de 2021. Também é extensão de trabalhos desenvolvidos durante o mestrado e doutorado em ciência política pela Universidade de São Paulo
@@ -171,6 +174,9 @@ FUTURO
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 ---
+
+<div align="center">
+
 <br/><br/>
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
 
@@ -178,3 +184,5 @@ FUTURO
 
 ![https://medium.com/@ggnicolau](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 <img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+
+</div>
