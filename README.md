@@ -208,7 +208,7 @@ FUTURO
 
 ![https://medium.com/@ggnicolau](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
-
+<br/><br/>
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="business" value="JMWQY8E36XMXL" />
 <input type="hidden" name="item_name" value="tech" />
@@ -217,7 +217,7 @@ FUTURO
 <img alt="" border="0" src="https://www.paypal.com/en_BR/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-
+<br/><br/>
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="business" value="JMWQY8E36XMXL" />
 <input type="hidden" name="item_name" value="tech" />
