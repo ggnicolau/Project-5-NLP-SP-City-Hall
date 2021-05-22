@@ -1,15 +1,26 @@
 <div align="center">
 <img src="https://coursereport-production.imgix.net/uploads/school/logo/84/original/logo-ironhack-blue.png?w=200&h=200&dpr=1&q=75">
-
 <div align="left">
 
-<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Seja+bem-vindo!)](https://git.io/typing-svg)
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
+
+---
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ggnicolau.visitor-badge)
+[![Created Badge](https://badges.pufler.dev/created/ggnicolau/Ironhack_final)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/ggnicolau/Ironhack_final)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/ggnicolau)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/ggnicolau)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/ggnicolau)](https://badges.pufler.dev)
+[![ggnicolau StackOverflow](https://stackoverflow-badge.vercel.app/?userID=15673147)](https://stackoverflow.com/users/15673147/ggnicolau)
 
 ![+5511976431347](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![ggnicolau](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![ggnicolau@usp.br](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![https://www.linkedin.com/in/ggnicolau/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://medium.com/@ggnicolau](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![Python 3.9](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -18,14 +29,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggnicolau&show_icons=true&theme=darcula)
 
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
 
-
-
-
-
-
-
-
+---
 
 # Modelo de Tópicos e a Prefeitura de SP (NLP)
 Esse projeto é parte do trabalho final do Bootcamp em Data Analytics da Ironhack, turma de 2021. Também é extensão de trabalhos desenvolvidos durante o mestrado e doutorado em ciência política pela Universidade de São Paulo
@@ -154,15 +160,27 @@ FUTURO
   - Se quiserem acesso a todas as visualizações geradas automaticamente pela nossa pipeline, acessar aqui: (https://github.com/ggnicolau/Ironhack_final/tree/main/All%20Visualizations)
   - Se quiserem todas as nossas tabelas limpas sem lematização, acessar: (https://github.com/ggnicolau/Ironhack_final/tree/main/tables_clean_no_lem)
   - Se quiserem todas as tabelas limpas e lematizadas, acessar: (https://github.com/ggnicolau/Ironhack_final/tree/main/tables_clean_lem)
+  <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
+  ---
 ## Versioning
 
 1.0.0.0
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
 
+---
 ## Autor
 
 * **Guilherme Giuliano Nicolau**: @ggnicolau (https://github.com/ggnicolau)
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
 
+---
 <br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggnicolau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ggnicolau/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ggnicolau/0" alt="Recent Article 0">
+![https://medium.com/@ggnicolau](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+<img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
