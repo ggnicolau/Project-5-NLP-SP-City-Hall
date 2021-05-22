@@ -177,6 +177,5 @@ FUTURO
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ggnicolau/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ggnicolau/0" alt="Recent Article 0">
 ![https://medium.com/@ggnicolau](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 <img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
