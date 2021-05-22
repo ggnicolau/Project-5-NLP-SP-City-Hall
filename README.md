@@ -117,6 +117,7 @@ Todos os códigos podem ser encontrados na pasta ```py files``` ordenados
 * pyLDAvis:
   * Faça download do arquivo seguranca_urbana.html e abra em seu navegador para ver um exemplo do gráfico dinâmico pyLDAvis no seguinte endereço não foi possível incorporar o gráfico dinâmico em HTML no GitHub): <https://github.com/ggnicolau/Ironhack_final/tree/main/Presentation>
 
+
   <div align="center">
 
   ![ex](https://github.com/ggnicolau/Ironhack_final/blob/main/All%20Visualizations/pyLDAvis_example.png)
