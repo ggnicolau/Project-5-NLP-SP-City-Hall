@@ -72,6 +72,7 @@ Esse projeto é parte do trabalho final do Bootcamp em Data Analytics da Ironhac
 * gensim
 * texthero
 * nltk
+* SpaCy
 * numpy
 * pprint
 * logging
