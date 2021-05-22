@@ -99,6 +99,7 @@ Todos os códigos podem ser encontrados na pasta ```py files``` ordenados
 
 * pyLDAvis;
   * Faça download do arquivo seguranca_urbana.html e abra em seu navegador para ver um exemplo do gráfico dinâmico pyLDAvis no seguinte endereço não foi possível incorporar o gráfico dinâmico em HTML no GitHub): <https://github.com/ggnicolau/Ironhack_final/tree/main/Presentation>
+  ![ex](https://github.com/ggnicolau/Ironhack_final/tree/main/All%20Visualizations)
 
 * Cruzamento de assuntos criados por nós com tópicos no corpus por gestão;
   * Cruzamos o tópico de segurança com o tópico de saúde para ver qual o principal documento do Corpus o algoritmo nos retornava:
