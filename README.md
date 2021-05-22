@@ -184,7 +184,7 @@ FUTURO
   - Se quiserem acesso a todas as visualizações geradas automaticamente pela nossa pipeline, acessar aqui: (https://github.com/ggnicolau/Ironhack_final/tree/main/All%20Visualizations)
   - Se quiserem todas as nossas tabelas limpas sem lematização, acessar: (https://github.com/ggnicolau/Ironhack_final/tree/main/tables_clean_no_lem)
   - Se quiserem todas as tabelas limpas e lematizadas, acessar: (https://github.com/ggnicolau/Ironhack_final/tree/main/tables_clean_lem)
-  - Se quiserem acesso a todas as notícias institucionais coletadas, acesso em
+  - Se quiserem acesso a todas as notícias institucionais coletadas, acesso em: (https://github.com/ggnicolau/Ironhack_final/tree/main/News)
 
 ## Versioning
 
