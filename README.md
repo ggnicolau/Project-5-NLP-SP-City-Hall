@@ -126,6 +126,9 @@ FUTURO
   - Códigos em PHP de webs scraping das notícias institucionais: (https://github.com/ggnicolau/Ironhack_final/tree/main/PHP%20webscraping)
   - Exemplos visuais do nosso produto: (https://github.com/ggnicolau/Ironhack_final/tree/main/Presentation)
   - Ver apresentação completa, com mais gráficos e análise, baixando o arquivo executável (.exe) do Prezi em: (https://github.com/ggnicolau/Ironhack_final/tree/main/Presentation)
+  - Se quiserem acesso a todas as visualizações geradas automaticamente pela nossa pipeline, acessar aqui: (https://github.com/ggnicolau/Ironhack_final/tree/main/All%20Visualizations)
+  - Se quiserem todas as nossas tabelas limpas sem lematização, acessar: (https://github.com/ggnicolau/Ironhack_final/tree/main/tables_clean_no_lem)
+  - Se quiserem todas as tabelas limpas e lematizadas, acessar: (https://github.com/ggnicolau/Ironhack_final/tree/main/tables_clean_lem)
 
 ## Versioning
 
