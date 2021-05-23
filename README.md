@@ -94,7 +94,7 @@ Buscamos aqui apresentar nosso MVP (Minimal Viable Product) de análise semânti
   * Temos menos bias do que o 'tageamento' de um sujeito e, portanto, melhor classificação que um humano; é ótimo, por exemplo, para informational retrieveal, ou seja, encontrar um conteúdo textual específico em um grande conjunto de dados;
 * Um topico se apresenta assim:
   * TÓPICOS DE CULTURA
-  
+
   > (17, '0.228*"anos" + 0.120*"show" + 0.097*"projeto" + 0.080*"apresentacoes" + 0.076*"musicas" + 0.074*"banda" + 0.025*"acervo" + 0.022*"largo" + 0.018*"pontos" + 0.018*"novo"')
 
   > (4, '0.164*"sobre" + 0.112*""o" + 0.092*"biblioteca" + 0.075*"diretor" + 0.062*"exposicao" + 0.054*"obras" + 0.051*"reune" + 0.042*"andrade" + 0.042*"mario" + 0.037*"primeiro"')
@@ -102,7 +102,7 @@ Buscamos aqui apresentar nosso MVP (Minimal Viable Product) de análise semânti
   > (10, '0.181*"ate" + 0.126*"danca" + 0.092*"inscricoes" + 0.069*"artistas" + 0.068*"musical" + 0.066*"programa" + 0.052*"janeiro" + 0.049*"recebe" + 0.035*"atividades" + 0.023*"grupos"')
 
 * Quais as vantagens de ser sem estrutura e sem supervisão?
-  * Não precisamos de target e não tem interferência do sujeito na interpretação do objeto, ou seja, dos sentidos (semântica) no nosso Corpus.
+  * Não precisamos de 'target' e não tem interferência do sujeito na interpretação do objeto, ou seja, não há interferência humana na definição dos sentidos (semântica) dentro de nosso Corpus.
 
 ## Worfklow
 Todos os códigos podem ser encontrados na pasta ```py files``` ordenados
