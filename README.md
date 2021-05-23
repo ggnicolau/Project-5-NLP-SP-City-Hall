@@ -166,7 +166,6 @@ Analisando algumas secretarias e comparando as gestões percebemos que em seus d
 
 ## Futuro
 Recomendamos aos clientes incorporarem as seguintes ferramentas além das disponíveis no nosso MVP:
-FUTURO
 - Automatizar (mais) nossas pipelines, transformando as funções em classes;
 - Incorporar e automatizar os hiperparâmetros;
 - Automatizar o reto de documentos mais importantes por tópico;
